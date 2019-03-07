@@ -1,2 +1,2 @@
 # fawkes
-Easy DTAP-street with Docker
+Easy DTAP-street with Docker Compose
